@@ -1,11 +1,9 @@
-import { FC } from "react";
+import { FC } from 'react';
 
-const Login: FC = () => {
+export const Login: FC = () => {
   return (
     <>
       <h1>helo</h1>
     </>
   );
 };
-
-export default Login;
